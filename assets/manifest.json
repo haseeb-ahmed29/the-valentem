@@ -1,0 +1,612 @@
+{
+  "assets": [
+    {
+      "contentType": "image/avif",
+      "id": "36e16aba45f522e1",
+      "kind": "image",
+      "name": "with-slogan.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\36e16aba45f522e1.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/height:2000/https://cdn.gamma.app/ujxg6w77dmw2rku/a7f7ee2b3d0b4d818a2ea320781aeb39/original/with-slogan.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "2fe99665774faa32",
+      "kind": "image",
+      "name": "DSC01318.jpg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\2fe99665774faa32.jpg",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/ujxg6w77dmw2rku/3a730d1d69794c7ea3f1999ba76fbca3/original/DSC01318.jpg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "bd6c50df355ffc28",
+      "kind": "image",
+      "name": "Logo.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\bd6c50df355ffc28.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/height:2000/https://cdn.gamma.app/ujxg6w77dmw2rku/6155b6d2917e415f8c32a467381e3404/original/Logo.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "04ff27bad6b99a67",
+      "kind": "image",
+      "name": "WhatsApp-Image-2025-09-29-at-1.10.04-PM-1.jpeg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\04ff27bad6b99a67.jpeg",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/ujxg6w77dmw2rku/aefb530c34b842f4883d6b6d32e44d11/original/WhatsApp-Image-2025-09-29-at-1.10.04-PM-1.jpeg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "d25c998318c5273d",
+      "kind": "image",
+      "name": "WhatsApp-Image-2025-09-29-at-1.10.03-PM-2.jpeg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\d25c998318c5273d.jpeg",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/ujxg6w77dmw2rku/a0cc54b6cd264d0f87204d8bab44e0fc/original/WhatsApp-Image-2025-09-29-at-1.10.03-PM-2.jpeg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "486b49fb0a02a005",
+      "kind": "image",
+      "name": "WhatsApp-Image-2025-09-29-at-1.10.03-PM-1.jpeg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\486b49fb0a02a005.jpeg",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https://cdn.gamma.app/ujxg6w77dmw2rku/3a45f4cfbf314cdc814754ca1da755fc/original/WhatsApp-Image-2025-09-29-at-1.10.03-PM-1.jpeg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b775b038f5424598",
+      "kind": "image",
+      "name": "wiggle-left.578c81e9.svg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\b775b038f5424598.svg",
+      "url": "https://assets.gammahosted.com/epoxhf4ff/_next/static/media/wiggle-left.578c81e9.svg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "656162bc9369465a",
+      "kind": "image",
+      "name": "DSC01306.jpg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\656162bc9369465a.jpg",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1200/https://cdn.gamma.app/ujxg6w77dmw2rku/36c3b7c130ec4bac89730e5606bfc1b0/original/DSC01306.jpg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1247ad0d6cc57df3",
+      "kind": "image",
+      "name": "comment.svg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\1247ad0d6cc57df3.svg",
+      "url": "https://cdn.gamma.app/ujxg6w77dmw2rku/ab67e298b97b46338ffc16c212833fc5/optimized/comment.svg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "739348583ea87574",
+      "kind": "image",
+      "name": "e5_wCNvaduflLl3u44qdx.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\739348583ea87574.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2400/https://cdn.gamma.app/ujxg6w77dmw2rku/generated-images/e5_wCNvaduflLl3u44qdx.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "2ca864c5006e479a",
+      "kind": "image",
+      "name": "4-i5V_ZK2AtZ2tWdJ-2Iw.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\2ca864c5006e479a.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2400/https://cdn.gamma.app/ujxg6w77dmw2rku/generated-images/4-i5V_ZK2AtZ2tWdJ-2Iw.png"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "b44b0d246401e0d4",
+      "kind": "image",
+      "name": "IT8SU3h1FS6nyoWwZTF-m.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\b44b0d246401e0d4.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1200/https://cdn.gamma.app/ujxg6w77dmw2rku/generated-images/IT8SU3h1FS6nyoWwZTF-m.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "14ff7c285dbdafd3",
+      "kind": "image",
+      "name": "wiggle-top.41b099b7.svg",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\14ff7c285dbdafd3.svg",
+      "url": "https://assets.gammahosted.com/epoxhf4ff/_next/static/media/wiggle-top.41b099b7.svg"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "0b39ce9c2db45540",
+      "kind": "image",
+      "name": "G2TEaqre2Bv4JKlAsRJ6W.png",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\0b39ce9c2db45540.png",
+      "url": "https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2400/https://cdn.gamma.app/ujxg6w77dmw2rku/generated-images/G2TEaqre2Bv4JKlAsRJ6W.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f50253155d79c9d0",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\f50253155d79c9d0.svg",
+      "url": "inline-svg:f50253155d79c9d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e588d0f9abdd11b7",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\e588d0f9abdd11b7.svg",
+      "url": "inline-svg:e588d0f9abdd11b7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bdc6bacc3ffd3401",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\bdc6bacc3ffd3401.svg",
+      "url": "inline-svg:bdc6bacc3ffd3401"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5cde84d76c091012",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\5cde84d76c091012.svg",
+      "url": "inline-svg:5cde84d76c091012"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "22ebb1a09820135d",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\22ebb1a09820135d.svg",
+      "url": "inline-svg:22ebb1a09820135d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c9f9a742c5e6609f",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\c9f9a742c5e6609f.svg",
+      "url": "inline-svg:c9f9a742c5e6609f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ecbcbf3353c7d39d",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\ecbcbf3353c7d39d.svg",
+      "url": "inline-svg:ecbcbf3353c7d39d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c7e0f8dcc6a5f924",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\c7e0f8dcc6a5f924.svg",
+      "url": "inline-svg:c7e0f8dcc6a5f924"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c842178457a35a6a",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\c842178457a35a6a.svg",
+      "url": "inline-svg:c842178457a35a6a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f8a95d836810dc1e",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\f8a95d836810dc1e.svg",
+      "url": "inline-svg:f8a95d836810dc1e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "42b9dde20069752a",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\42b9dde20069752a.svg",
+      "url": "inline-svg:42b9dde20069752a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aa538e7133c3a46b",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\aa538e7133c3a46b.svg",
+      "url": "inline-svg:aa538e7133c3a46b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3dfd41857ebbd581",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\3dfd41857ebbd581.svg",
+      "url": "inline-svg:3dfd41857ebbd581"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "782e43ddaff3ae49",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\782e43ddaff3ae49.svg",
+      "url": "inline-svg:782e43ddaff3ae49"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "996618e0e9a538d9",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\996618e0e9a538d9.svg",
+      "url": "inline-svg:996618e0e9a538d9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f2f2aa7a1771fe77",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\f2f2aa7a1771fe77.svg",
+      "url": "inline-svg:f2f2aa7a1771fe77"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e1d2c5d793c06efb",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\e1d2c5d793c06efb.svg",
+      "url": "inline-svg:e1d2c5d793c06efb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "619b3badcabe8af6",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\619b3badcabe8af6.svg",
+      "url": "inline-svg:619b3badcabe8af6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1b2293edb90e37d2",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\1b2293edb90e37d2.svg",
+      "url": "inline-svg:1b2293edb90e37d2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d66ef84fcd4d1dd4",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\d66ef84fcd4d1dd4.svg",
+      "url": "inline-svg:d66ef84fcd4d1dd4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "601ce160c95579ca",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\601ce160c95579ca.svg",
+      "url": "inline-svg:601ce160c95579ca"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cf7617cc9446e7eb",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\cf7617cc9446e7eb.svg",
+      "url": "inline-svg:cf7617cc9446e7eb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "21ba0b4127e80e74",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\21ba0b4127e80e74.svg",
+      "url": "inline-svg:21ba0b4127e80e74"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0d2f46f59d4e7b81",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\0d2f46f59d4e7b81.svg",
+      "url": "inline-svg:0d2f46f59d4e7b81"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9dbea3b5e8d2e797",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\9dbea3b5e8d2e797.svg",
+      "url": "inline-svg:9dbea3b5e8d2e797"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "508257536f58f282",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\508257536f58f282.svg",
+      "url": "inline-svg:508257536f58f282"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "94a96bdd061af9b8",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\94a96bdd061af9b8.svg",
+      "url": "inline-svg:94a96bdd061af9b8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1986b41a827fd30a",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\1986b41a827fd30a.svg",
+      "url": "inline-svg:1986b41a827fd30a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0c66da0fe1ab0fa9",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\0c66da0fe1ab0fa9.svg",
+      "url": "inline-svg:0c66da0fe1ab0fa9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6d5f168f1318d4db",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\6d5f168f1318d4db.svg",
+      "url": "inline-svg:6d5f168f1318d4db"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a800937a14dee35f",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\a800937a14dee35f.svg",
+      "url": "inline-svg:a800937a14dee35f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7c9eca4dab7eff65",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\7c9eca4dab7eff65.svg",
+      "url": "inline-svg:7c9eca4dab7eff65"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bf5f95f5b5a9df1b",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\bf5f95f5b5a9df1b.svg",
+      "url": "inline-svg:bf5f95f5b5a9df1b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b29a06c464e4fc2",
+      "kind": "image",
+      "name": "svg-34",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\3b29a06c464e4fc2.svg",
+      "url": "inline-svg:3b29a06c464e4fc2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "277deb0e1949a73d",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\277deb0e1949a73d.svg",
+      "url": "inline-svg:277deb0e1949a73d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "75d965a38bfb3a7b",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\75d965a38bfb3a7b.svg",
+      "url": "inline-svg:75d965a38bfb3a7b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "141136f6e1cb30ed",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\141136f6e1cb30ed.svg",
+      "url": "inline-svg:141136f6e1cb30ed"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "14d5647684d98bb4",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\14d5647684d98bb4.svg",
+      "url": "inline-svg:14d5647684d98bb4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e180f611723f6596",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\e180f611723f6596.svg",
+      "url": "inline-svg:e180f611723f6596"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d13d026b9afad53e",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\d13d026b9afad53e.svg",
+      "url": "inline-svg:d13d026b9afad53e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "447a17153bf877b8",
+      "kind": "image",
+      "name": "svg-41",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\447a17153bf877b8.svg",
+      "url": "inline-svg:447a17153bf877b8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6e3dbfcc08b832ce",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\6e3dbfcc08b832ce.svg",
+      "url": "inline-svg:6e3dbfcc08b832ce"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "99a9762100eb7796",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\99a9762100eb7796.svg",
+      "url": "inline-svg:99a9762100eb7796"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "49ca0e5b139e33ec",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\49ca0e5b139e33ec.svg",
+      "url": "inline-svg:49ca0e5b139e33ec"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3e8f6b41eff98d7d",
+      "kind": "image",
+      "name": "svg-45",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\3e8f6b41eff98d7d.svg",
+      "url": "inline-svg:3e8f6b41eff98d7d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cfe3ce58c8cc00e0",
+      "kind": "image",
+      "name": "svg-46",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\cfe3ce58c8cc00e0.svg",
+      "url": "inline-svg:cfe3ce58c8cc00e0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8ba90f2e97370df5",
+      "kind": "image",
+      "name": "svg-47",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\8ba90f2e97370df5.svg",
+      "url": "inline-svg:8ba90f2e97370df5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "39d2d0583f7d72f8",
+      "kind": "image",
+      "name": "svg-48",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\39d2d0583f7d72f8.svg",
+      "url": "inline-svg:39d2d0583f7d72f8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f93718245a20d180",
+      "kind": "image",
+      "name": "svg-49",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\f93718245a20d180.svg",
+      "url": "inline-svg:f93718245a20d180"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "452259fffae5c174",
+      "kind": "image",
+      "name": "svg-50",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\452259fffae5c174.svg",
+      "url": "inline-svg:452259fffae5c174"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bd380decc8459835",
+      "kind": "image",
+      "name": "svg-51",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\bd380decc8459835.svg",
+      "url": "inline-svg:bd380decc8459835"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3a6915cb850b27f0",
+      "kind": "image",
+      "name": "Layer_1",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\3a6915cb850b27f0.svg",
+      "url": "inline-svg:3a6915cb850b27f0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b863b1d8359f375f",
+      "kind": "image",
+      "name": "svg-53",
+      "path": "C:\\Users\\DIGITA~1\\AppData\\Local\\Temp\\browser-use\\assets\\6e117c01-5369-40cc-a1a5-90e1432cb2fe\\b863b1d8359f375f.svg",
+      "url": "inline-svg:b863b1d8359f375f"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "85a2904e7b2ab5e2",
+      "name": "twitter.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/twitter.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "e06ec28ea5ae0126",
+      "name": "digital-ocean.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/digital-ocean.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "916f40a225fa2f3b",
+      "name": "virus-covid.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/virus-covid.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "5a7a2e73a6425614",
+      "name": "business-time.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/business-time.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "86168e55e58a833d",
+      "name": "researchgate.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/researchgate.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "01e97b8c02cd2cbb",
+      "name": "bullseye.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/bullseye.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "37a48ab30ab78590",
+      "name": "folder-grid.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/folder-grid.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "4673ad27a281b06b",
+      "name": "instagram.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/instagram.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "846043e68c4a0d5b",
+      "name": "facebook.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/facebook.svg?ctx=accessory-img-inline-svg"
+    },
+    {
+      "contentType": null,
+      "id": "ed6cd3e0c4ef0200",
+      "name": "linkedin.svg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at e7 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn.gamma.app/_app_static/icons/v0/linkedin.svg?ctx=accessory-img-inline-svg"
+    }
+  ]
+}
